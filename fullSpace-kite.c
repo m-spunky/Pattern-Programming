@@ -28,7 +28,6 @@ void main(){
 
 
 // enter a number : 5
-
 //         * 
 //       * * * 
 //     * * * * * 

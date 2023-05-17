@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.mod": "go.mod",
+        "*.tmpl": "html",
+        "stdio.h": "c"
+    }
+}
